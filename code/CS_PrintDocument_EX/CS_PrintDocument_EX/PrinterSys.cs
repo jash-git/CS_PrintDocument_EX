@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Management;
+using System.Management;//nuget ~ System.Management [版本 6.0.0][作者: Microsoft]
 using System.Text;
 using System.Threading.Tasks;
 
