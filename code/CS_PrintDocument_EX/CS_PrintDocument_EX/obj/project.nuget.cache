@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uqERV+o2NgFQhcKrPmZh8Ec0Bkdr6FyVpA1+cXsjpomDFreg4WHwokm9nC/cWe1cMcpgWt3hAfCCoB9oiZv0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devel\\Desktop\\CS_PrintDocument_EX\\CS_PrintDocument_EX\\CS_PrintDocument_EX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devel\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
